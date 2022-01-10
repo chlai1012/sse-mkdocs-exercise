@@ -6,5 +6,5 @@ nav:
         - 'Installation': 'compilation-and-installation.md'
         - 'Getting Started': 'how-to.md'
 
-repo_url: https://github.com/chlai1012/sse-mkdocs-exercise.git
+repo_url: https://github.com/chlai1012/sse-mkdocs-exercise
 edit_uri: edit/main/docs/
